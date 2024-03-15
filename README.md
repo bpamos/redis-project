@@ -2,6 +2,9 @@
 just random redis projects
 
 
+Dataset from kaggle:
+https://www.kaggle.com/datasets/aaditshukla/flipkart-fasion-products-dataset
+
 How to use:
 ```bash
     # create virtual environment
